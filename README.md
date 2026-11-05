@@ -132,6 +132,8 @@ Likhith_Portfolio/
 ## 🔄 Easy Customization Guide
 
 - **Update Info / Add Projects / Add Certifications**:
+
+- Personal developer portfolio built with React and Vite.
   Edit `src/data/portfolioData.js`. All headlines, bio text, project links, metrics, and contacts are centralized here.
 - **Replace Resume**:
   Simply replace `public/Likhith_Chappati_Resume.pdf` with any new PDF while keeping the same filename.
